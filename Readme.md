@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Nikita Romasko](https://up.htmlacademy.ru/javascript/14/user/596719).
-* Наставник: `Неизвестно`.
+* Наставник: [Кирилл Пензин](https://htmlacademy.ru/profile/id91821).
 
 ---
 
